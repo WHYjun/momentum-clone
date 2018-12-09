@@ -13,8 +13,8 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ## modification
 
-- [ ] Connect to local database for UserName and ToDoList
+- [ ] Connect to local storage for UserName and ToDoList
 - [ ] Generate ToDoList using Google Calendar API
 - [ ] Use cache data to support offline (ToDoList, Image, Quote)
-- [ ] Update offline change to database
+- [ ] Update offline change to local storage
 - [ ] Deploy on Heroku
